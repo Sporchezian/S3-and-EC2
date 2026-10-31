@@ -92,6 +92,9 @@ student-cloud-storage-001
 
 └── Notes.pdf Screenshot 2026-09-02 090823
 
+## Output
+
+
 # Part B – Launching an Amazon EC2 Instance
 ### Step 1
 Type EC2 in the AWS search bar.
