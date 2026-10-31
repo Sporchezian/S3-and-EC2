@@ -45,7 +45,7 @@ Log in using the following method:
 - Enter the AWS password.
 - Complete the verification process.
 ## Output
-
+https://github.com/Sporchezian/S3-and-EC2/edit/main/README.md
 ### Step 3
 Type S3 in the search box.
 
@@ -94,6 +94,7 @@ student-cloud-storage-001
 
 ## Output
 
+<img width="1515" height="732" alt="image" src="https://github.com/user-attachments/assets/5a26999e-5f2b-4d6a-8083-a1ec734cbf76" />
 
 # Part B – Launching an Amazon EC2 Instance
 ### Step 1
@@ -106,7 +107,9 @@ Open the EC2 Dashboard.
 Click Launch instance.
 
 ### Step 4
-Enter the instance name. CloudLabVM
+Enter the instance name. 
+
+CloudLabVM
 
 ### Step 5
 Select the operating system.
@@ -155,6 +158,10 @@ Pending
 
 Running
 
+## Output
+
+<img width="1532" height="725" alt="image" src="https://github.com/user-attachments/assets/64a92aa1-6a2a-498e-9a7c-22ea91624a52" />
+
 # Connecting to the EC2 Instance
 
 ### Step 1
@@ -176,7 +183,8 @@ Click Connect.
 Execute the following command: echo "Hello AWS"
 
 ## Output
-Screenshot 2026-09-02 091656
+<img width="1532" height="727" alt="image" src="https://github.com/user-attachments/assets/755894aa-0107-4138-81c7-092d40df43e6" />
+
 
 # Stopping the EC2 Instance
 
@@ -204,6 +212,9 @@ Stopping
 ↓
 
 Stopped
+
+## Output
+<img width="1535" height="726" alt="image" src="https://github.com/user-attachments/assets/eddb3437-89b8-4bc9-b159-04fd62e250e2" />
 
 # Logging Out of AWS
 
